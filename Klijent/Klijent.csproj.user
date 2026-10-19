@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Glavna.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User Controllers\ucDodajStavkuURacun.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="User Controllers\ucDodajStrucnuSpremu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="User Controllers\ucKreirajKupca.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="User Controllers\ucKreirajRacun.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="User Controllers\ucLoginProdavac.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="User Controllers\ucMesta.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="User Controllers\ucPretraziKupca.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="User Controllers\ucPretraziRacun.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="User Controllers\ucPrijavljeniProdavac.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="User Controllers\ucPrikaziListuRacuna.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="User Controllers\ucPromeniKupca.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="User Controllers\ucPromeniRacun.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="User Controllers\ucSportskaOprema.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
